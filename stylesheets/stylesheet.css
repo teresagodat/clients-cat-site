@@ -1,0 +1,125 @@
+html {
+    font-size: 16px;
+    margin-right: 13rem;
+    margin-left: 13rem;
+  
+    background-color: black;
+}
+
+address {
+    background-color: black;
+    color: white;
+    height: 10rem;
+    padding: 1rem;
+    text-align: left;
+}
+
+address a {
+   float:left;
+   color: red;
+}
+aside {
+    float: right;
+    width: 20rem;
+    margin: 0 0 .5rem, .5rem;
+    padding: .5rem;
+    margin: 2rem 1.5rem;
+    border: .1rem solid black;
+    text-align: center;
+    background-color:whte;
+}
+aside a {
+  color: red;
+  float: right;
+}
+body  {
+    font-family:calibri;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    background-color: white;
+    
+}
+figure img {
+    width: 15rem;
+    height: 17rem
+}
+
+
+footer  {
+    clear: both;
+    background-color: black;
+    color: white;
+    height: 10rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+h4 i {
+    float:left;
+}
+
+header {
+    clear: both;
+    background-color: black;
+    color: white;
+    height: 10rem;
+    text-indent: 2rem;
+    padding-bottom: 2rem;
+}
+
+header a {
+    float: right;
+    font-weight: normal;
+    font-family:calibri;
+    padding: 10px 5px;
+    font-size: 1.2rem;
+    color: red;
+}
+header h1{
+    font-size: 3rem;
+    padding-top: 3rem
+    
+}
+header p{
+    padding-bottom: 0rem;
+    margin-bottom: 10rem;
+    font-size: 1.3rem;
+}
+p {
+    line-height: 120%;
+    word-spacing: .25rem;
+
+}
+nav {
+    background-color:grey;
+    text-align: center;
+    height: 1.5rem;
+    margin: 0;
+    padding: .75rem 0;
+    width: 100%;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0 2px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    font-weight: normal;
+    font-family:calibri;
+    padding: 10px 5px;
+    font-size: 1.2rem;
+    color: rebeccapurple;
+}
+
+q {
+  font-style: italic;
+}
+section {
+    float:left;
+    margin: 0;
+    padding-left: 2rem;
+}
